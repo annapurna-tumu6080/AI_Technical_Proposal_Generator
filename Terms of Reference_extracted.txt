@@ -1,0 +1,1117 @@
+--- Title: Terms of Reference.pdf ---
+Pages: 19
+Metadata: {'format': 'PDF 1.7', 'title': 'Form 41-14-1-en, Leistungsbeschreibung (ToR) für die Beschaffung von Dienstleistungen unterhalb des EU Schwellenwertes, englisch, Stand Dezember 2018', 'author': 'Sanjay Dhar', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word for Microsoft 365', 'producer': 'Microsoft® Word for Microsoft 365', 'creationDate': "D:20250325160645+05'30'", 'modDate': "D:20250325160645+05'30'", 'trapped': '', 'encryption': None}
+
+--- Page 1 ---
+Terms of reference (ToR) for Developing 
+Integrated Frameworks and Digital Solutions 
+for FLR Monitoring, Evaluation, and 
+Reporting under RECAP4NDC project 
+ 
+Form 41-14-1-en 
+1 
+Terms of reference (ToR) for Developing 
+Integrated 
+Frameworks 
+and 
+Digital 
+Solutions for FLR Monitoring, Evaluation, 
+and Reporting under RECAP4NDC project
+                          Project number/cost centre: 
+                                  21.9023.9-003.00      
+ 
+0. 
+List of abbreviations .................................................................................................. 2 
+1. 
+Context ........................................................................................................................ 3 
+2. 
+Tasks to be performed by the contractor ................................................................. 5 
+3. 
+Data protection ........................................................................................................... 9 
+4. 
+IT/ Information security .............................................................................................10 
+5. 
+Concept ......................................................................................................................11 
+Technical-methodological concept ..............................................................................11 
+Project management of the contractor .........................................................................12 
+6. 
+Criteria for Eligibility of firms ...................................................................................12 
+7. 
+Personnel concept ....................................................................................................13 
+8. 
+Costing requirements ...............................................................................................17 
+Assignment of personnel .............................................................................................17 
+Travel ..........................................................................................................................17 
+Sustainability aspects for travel ...................................................................................18 
+Other costs ..................................................................................................................18 
+9. 
+Inputs of GIZ or other actors ....................................................................................19 
+10. 
+Requirements on the format of the bid ....................................................................19 
+ 
+ 
+
+--- Page 2 ---
+ 
+2 
+0. 
+List of abbreviations 
+AFOLU – Agriculture, Forestry, and Other Land Uses 
+ARIES – Artificial Intelligence for Ecosystem Services 
+AVB – General Terms and Conditions of Contract (Allgemeine Vertragsbedingungen) 
+DC – Development Cooperation 
+ES – Ecosystem Services 
+FLR – Forest Landscape Restoration 
+FSI – Forest Survey of India 
+GIZ – Deutsche Gesellschaft für Internationale Zusammenarbeit 
+ICFRE – Indian Council for Forestry Research and Education 
+ICIMOD – International Centre for Integrated Mountain Development 
+IUCN – International Union for Conservation of Nature 
+IoT – Internet of Things 
+MER – Monitoring, Evaluation, and Reporting 
+MoEFCC – Ministry of Environment, Forest, and Climate Change (India) 
+NCR – National Capital Region (Delhi and surrounding areas) 
+NDC – Nationally Determined Contribution 
+SFD – State Forest Departments 
+SOP – Standard Operating Procedure 
+STAC – SpatioTemporal Asset Catalog 
+TAG – Technical Assessment Grid 
+TERI – The Energy and Resources Institute 
+ToF – Trees outside Forests 
+TOR – Terms of Reference 
+UN – United Nations 
+WP – Work Package 
+ 
+ 
+
+--- Page 3 ---
+ 
+3 
+1. 
+Context 
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), GmbH – India is 
+implementing a project with the title “Restore, Conserve and Protect Forest and Tree Cover 
+for NDC Implementation in India (RECAP4NDC)” under the Indo-German bilateral cooperation. 
+The Ministry of Environment, Forest, and Climate Change (MoEFCC), Government of India is 
+the Indian political partner. The project is implemented by a 6-member consortium (GIZ -overall 
+coordination, International Union for the Conservation of Nature -IUCN- India office, Forest 
+Survey of India -FSI, The Energy and Resources Institute -TERI, Indian Council for Forestry 
+Research and Education -ICFRE and the International Centre for Integrated Mountain 
+Development -ICIMOD).  The project’s intended impact is to support India achieve its targets 
+on restoring degraded forests and landscapes inside and outside forests as defined in the 
+National Forest Policy and the NDC thereby improving livelihoods of forest dependent 
+communities and farmers. The project’s approach is in line with the principles of the Bonn 
+Challenge, which indicate that Forest Landscape Restoration (FLR) is the ongoing process of 
+restoring the ecological functionality of degraded and deforested landscapes while enhancing 
+the well-being of people who coexist with these places. It aims to strengthen the resilience of 
+landscapes and keep future management options open. By 2029, RECAP4NDC aims at 
+achieving ecological, socio-economic, governance, and climate change benefits in 0.4 million 
+ha of the forest landscape. 10 million people are expected to be benefitted from improved 
+forest Ecosystem Services (ES). Upscaling will lead to the restoration of 1.1 m ha and 110 
+mtCO2e in 10 years.  
+Under the RECAP4NDC project, four states have been selected for cooperation and briefly 
+characterised by a range of specific starting conditions: 
+• 
+The Delhi National Capital Region (NCR) comprising Delhi and the neighbouring 
+districts from the states of Uttar Pradesh, Haryana, and Rajasthan demonstrates the 
+challenges of rapid urban development and encroachment with resulting stresses on 
+green spaces and forests, due to competing development needs on limited land. At the 
+same time, the NCR presents the interesting potential to engage in the restoration of 
+urban tree cover and to embed such efforts in cross-agency collaboration. FLR 
+approaches also provide an important avenue to engage various neighbourhood 
+groups and organisations in larger restoration campaigns and to foster environmental 
+education and awareness raising. 
+• 
+Gujarat comprises several habitats and Agro-climatic zones, such as grasslands, 
+mangroves, and mudflats. It exposes specific challenges such as coastal degradation 
+and pressures by grazing activities in grasslands, requiring specific approaches for 
+landscape restoration and sustainable management. 
+• 
+Maharashtra accommodates 9 Agro-climatic zones such as Central Plateau, the 
+Eastern Vidarbha and Coastal Zones. The state government is aware of the different 
+challenges of FLR in these different environments. The state provides a potential for 
+the comparative testing of different approaches in up to five to six potential sites across 
+various Agro-climatic zones.  
+• 
+Uttarakhand with its topography along different – mostly hilly and mountainous – 
+elevation zones has already implemented different forms of community forestry via the 
+strengthening of village forest management committees (Van Panchayats), 
+microplanning, fund management, spring-shed management, and promotion of non-
+timber forest products. There are opportunities to supplement these programmes with 
+
+--- Page 4 ---
+ 
+4 
+targeted interventions around forest fire management, invasive species management 
+and strengthening existing community forestry structures.  
+Project outputs 
+The project outputs are as follows. Each Output is led by one consortium partner with active 
+contributions from other partners. 
+• 
+Output I - FLR model implementation: Model approaches for forest landscape 
+restoration including sustainable forest management, sustainable management of 
+trees and vegetation outside forests and agroforestry, are implemented in selected 
+states in cooperation with stakeholders from public service, agriculture, private sector, 
+and advisory services. 
+• 
+Output II - Monitoring, evaluation and reporting: Integrated systems for Monitoring, 
+Evaluation and Reporting (MER) of ecological and socio-economic benefits of FLR are 
+used. 
+• 
+Output III - Financing FLR: Models and tools for financing FLR from private, public 
+and international sources are applied. 
+• 
+Output IV - Policy and planning: Policies and guidelines for forest landscape 
+restoration are anchored in existing policy and planning processes. 
+• 
+Output V - Capacities, knowledge and communication: Human capacities, 
+knowledge and communication mechanisms for FLR have been transferred to and 
+communicated among involved stakeholder groups. 
+Forest Landscape Restoration (FLR) initiatives are crucial for restoring degraded ecosystems, 
+enhancing biodiversity, and improving socio-economic conditions in affected areas. Effective 
+monitoring, evaluation, and reporting (MER) systems are essential to measure the success 
+and impact of these initiatives. However, existing monitoring mechanisms in India, particularly 
+in the Agriculture, Forestry, and Other Land Uses (AFOLU) sectors, face challenges related to 
+data reliability, integration across governance levels, and technological adaptation. 
+The Ministry of Environment, Forest and Climate Change (MoEFCC), along with key partners 
+such as the Forest Survey of India (FSI), State Forest Departments (SFDs), and international 
+agencies like the International Union for Conservation of Nature (IUCN) and Deutsche 
+Gesellschaft für Internationale Zusammenarbeit (GIZ), recognizes the need for a standardized 
+and technologically advanced MER framework for FLR. The proposed initiative seeks to 
+develop integrated frameworks and digital solutions to bridge gaps in current monitoring 
+systems, ensuring robust data collection, enhanced decision-making, and effective reporting 
+on national and international commitments. 
+The assignment has following main objectives: 
+The objective of this Terms of Reference (TOR) package is to design, develop, and implement 
+integrated MER frameworks and digital solutions for FLR monitoring. The initiative aims to: 
+• 
+Create standardized and scalable MER frameworks, including protocols, measuring 
+tools, guidelines, and evaluation methodologies to assess the ecological, economic, 
+and social impacts of FLR interventions. 
+• 
+Integrate innovative technologies such as remote sensing, drones, Internet of Things 
+(IoT) devices, and artificial intelligence to enhance data collection, analysis, and 
+visualization. 
+ 
+
+--- Page 5 ---
+ 
+5 
+• 
+Engage with SFDs, MoEFCC, FSI, and other key stakeholders through workshops and 
+consultations to co-develop the MER framework, ensuring institutional buy-in and 
+sustainability. 
+• 
+Test the developed tools and methodologies in selected FLR sites to evaluate their 
+effectiveness, feasibility, and adaptability to real-world conditions before full-scale 
+implementation. 
+• 
+Facilitate the integration of developed MER systems into national and subnational 
+governance structures through capacity-building initiatives and institutional support 
+mechanisms. 
+2. 
+Tasks to be performed by the contractor 
+The assignment will be carried out to facilitate output II of the project, which focuses on 
+integrated systems for Monitoring, Evaluation and Reporting (MER) of ecological and socio-
+economic benefits of FLR. 
+The qualified agency is responsible for providing the following services: 
+Work Package (WP) 1: Development of Integrated FLR Monitoring & Evaluation Systems 
+This work package focuses on designing comprehensive and adaptable Monitoring, 
+Evaluation, and Reporting (MER) systems to assess the ecological, social, and economic 
+impacts of Forest Landscape Restoration (FLR). It involves reviewing existing national and 
+international monitoring frameworks, identifying key indicators, incorporating innovative digital 
+technologies (such as remote sensing, drones and digital field data collection), and developing 
+standard operating procedures (SOPs) and data collection formats. The goal is to create 
+robust, scalable, and user-friendly MER frameworks that aid in decision-making and reporting 
+at multiple governance levels. The MER framework will explore the possibility of incorporating 
+drone data, supplied by GIZ and SFDs, to enhance the accuracy and efficiency of FLR 
+monitoring and evaluation. The MER system should align with existing national (e.g., National 
+Forest Inventory, India State of Forests Report) and international commitments (e.g., Bonn 
+Challenge, UN Sustainable Development Goals, and the Paris Agreement). 
+ 
+The WP consists of, but is not limited to, the following activities: 
+Activity 1.1: Assess Existing Monitoring, Evaluation and Reporting Mechanisms, 
+Processes and Frameworks in the AFOLU sectors relevant for FLR 
+Tasks: 
+• 
+Conduct literature review and selective expert interviews on MER SOPs, tools, 
+methodologies, mechanisms, processes in the fields of forestry, agriculture, and water. 
+• 
+Conduct a literature review and stakeholder mapping (national, subnational, local) for 
+organizations engaged in forest and biodiversity monitoring. 
+• 
+08 stakeholder meetings with different stakeholder groups while developing the 
+concept and content. 
+• 
+Specifically review the use of innovative and emerging digital technologies in FLR 
+related fields in India and across the world. 
+• 
+Review existing literature and methodologies for monitoring ecosystem services for 
+FLR 
+
+--- Page 6 ---
+ 
+6 
+• 
+Identify the technological gaps and limitations in current practices, especially focusing 
+on areas that could benefit from remote sensing, drones, IoT solutions and other 
+technologies. 
+• 
+Investigate the latest advancements in digital solutions and other technologies. that are 
+applicable to FLR monitoring. 
+• 
+Perform a feasibility study to evaluate the practicality and effectiveness of these 
+technologies in the Indian FLR context. 
+• 
+Determine the integration capabilities of new technologies with existing monitoring 
+frameworks. 
+• 
+Prepare an extensive list of relevant stakeholders in this field, including active public 
+and private sector players in India and around the world, other bilateral and multilateral 
+projects in India; to identify best practices   
+• 
+Conduct interviews and organise stakeholder consultations (about 10, as necessary) 
+to validate findings from the literature review and identify useful case studies for the 
+project to learn from 
+• 
+Explore monitoring mechanisms and processes at various levels of governance within 
+the project’s main partners, i.e. state forest departments, in consultation with 
+consortium partners. Consider the current technical capacities, available technologies 
+and human capacities of the forest departments in this exploration process. 
+• 
+In coordination with the consortium, organise one-on-one discussions and stakeholder 
+workshops to meet with other state forest departments to explore their MER 
+mechanisms and processes. 
+Deliverables: 
+Baseline Report on Existing FLR Monitoring Mechanisms which includes, 
+• 
+The findings from the review of current FLR monitoring practices, highlighting 
+strengths, weaknesses, and areas for improvement. 
+• 
+Existing monitoring and evaluation mechanisms, (sub-national, national and 
+international); 
+• 
+Findings from the assessment of current technologies and the feasibility study of 
+potential technologies applications in FLR. 
+• 
+Overview of the use of digital innovations in FLR and its potential uses for FLR in India, 
+supported by stakeholder map highlighting key players in digital innovations for FLR 
+• 
+Minutes of meetings/record of discussions from interviews and stakeholder 
+consultations. 
+Activity 1.2: Recommend the design of MER frameworks for measuring FLR impacts 
+Tasks: 
+• 
+Extensive discussions with the project’s consortium partners, SFDs and the on-ground 
+teams on the appropriate use of MER mechanisms for defining parameters and 
+measuring FLR impacts. 
+• 
+Specifically understand the capacities and needs of the stakeholders in the project’s 
+FLR sites. 
+• 
+Define desired outputs and uses of monitoring systems in consultation with partners 
+(SFDs, line departments, MoEFCC, FSI). 
+• 
+Select set of proxy indicators based on literature review and on information from the 
+sites selected within the 150.000 ha.  
+
+--- Page 7 ---
+ 
+7 
+• 
+Define monitoring parameters together with key stakeholders in the project sites. These 
+can include key ecosystem services and socio-economic variables. 
+• 
+Provide recommendations and feedback on the selection of digital tools, formats, 
+indicators, methodologies for FLR monitoring and evaluation, augmenting/building on 
+existing MER mechanisms and processes of the state forest departments and other 
+line departments, as appropriate. 
+• 
+Present specific options for MER mechanisms for the project’s FLR sites which the 
+project’s consortium can select for piloting/roll-out. 
+Deliverables: 
+• 
+Report on options and recommendations for MER mechanisms under the project, for 
+the project’s FLR sites, presented for consideration. 
+Detailed technical specifications for each developed digital monitoring tool, including hardware 
+and software requirements, data capabilities, and user interfaces.  
+Work Package (WP) 2: Development of Digital Tools & Technologies for FLR Monitoring 
+This work package aims to design, prototype, and implement digital solutions that enhance 
+FLR monitoring and reporting. It includes identifying technological gaps in existing monitoring 
+mechanisms, developing user-friendly digital tools (such as mobile applications, dashboards, 
+and remote sensing solutions), and integrating them with current national and subnational 
+monitoring frameworks. The digital tools will be tailored to India’s FLR context, ensuring 
+seamless data collection, analysis, and reporting while facilitating institutional adoption through 
+stakeholder training and capacity-building initiatives. 
+The WP consists of, but is not limited to, the following activities: 
+Activity 2.1: Design and implement user-friendly SOPs, data collection formats and 
+tools (including digital tools) for efficient field data collection and analysis  
+Tasks: 
+• 
+Review challenges and barriers identified during the FLR planning phase by IUCN in 
+project states. 
+• 
+Clarify with project stakeholders, specifically in the FLR sites, on the current monitoring 
+SOPs, formats and tools used for data collection and monitoring (leading from Activity 
+1.2 in WP1). 
+• 
+Collect baseline data on selected parameters/indicators in the project’s pilot sites 
+(ideally before or at the start of interventions). 
+• 
+Match existing MER processes, mechanisms, SOPs, formats and tools with the 
+requirements of the project’s sites to see how the MER systems need to be augmented 
+to monitor and report on ecosystem services arising from FLR implementation. 
+• 
+Develop SOPs, formats and tools, including digital tools, for field data collection. 
+• 
+Create user guides for project implementors and on-ground partners to use the 
+developed MER SOPs, formats and tools 
+• 
+Closely work with IUCN and on-ground partners to identify personnel who will be using 
+the formats and tools. 
+• 
+Support the on-ground teams of the project and the forest officials in modifying and 
+adopting the new MER elements.  
+
+--- Page 8 ---
+ 
+8 
+• 
+Specifically on digital tools, consult with project stakeholders for suitable digital 
+technology adoption for FLR and ToF monitoring. Consider factors like access to 
+technology and language while designing the processes. 
+• 
+Develop a digital solution plan for each project state/landscape/ecosystem.  
+• 
+Present a package of solutions to stakeholders in each model site. 
+• 
+Develop agreed-upon digital tools with relevant stakeholders, including discussions on 
+technology stack and field testing. 
+• 
+Support the procurement of digital tools and equipment. 
+Deliverables: 
+• 
+SOPs for data collection. 
+• 
+Data collection formats 
+• 
+User guides and manuals for the augmented/newly developed MER elements 
+• 
+Needs assessment for digital tools and digital tools solution plan, i.e. proof-of-
+concept/wireframe 
+• 
+Technical specifications of digital tools clearly defined for procurement 
+• 
+Develop agreed-upon digital tools with relevant stakeholders, including discussions on 
+technology stack and field testing. 
+ 
+Activity 2.2: Establish Monitoring mechanisms at the institutional level for 
+Implementation 
+Tasks: 
+• 
+Identify relevant stakeholders for each tool based on factors like synergies, institutional 
+objectives, and IT capacity. 
+• 
+Review current IT infrastructure and assess training needs for shortlisted organizations. 
+• 
+Develop cost estimates and plan IT support, team composition, and expertise required 
+for tool implementation. 
+Deliverables: 
+• 
+Report on technical specifications for each tool developed towards handover support. 
+Activity 2.3: Design and prototyping of digital monitoring tools 
+Tasks: 
+• 
+Develop detailed specifications for new digital monitoring tools that utilise enhanced 
+remote sensing, drones, IoT solutions, digitally collected field data and other 
+technologies. 
+• 
+Design tools that are capable of collecting, processing, and analyzing data on 
+ecological, economic, and social impacts of FLR. 
+• 
+Ensure that these tools are scalable, adaptable to different FLR environments, and 
+user-friendly for stakeholders with varying levels of technical expertise. 
+• 
+Build prototypes of the digital monitoring tools. 
+• 
+Conduct iterative testing and refinement of these prototypes to ensure they meet the 
+design specifications and project needs. 
+
+--- Page 9 ---
+ 
+9 
+• 
+Deploy the developed tools in selected pilot areas to test their functionality and impact 
+in real-world settings. 
+• 
+Monitor and evaluate the performance of these tools in collecting accurate and relevant 
+FLR data. 
+• 
+Integrate feedback from pilot testing to refine and finalise the tools. 
+• 
+Develop comprehensive user manuals and training modules for the deployment and 
+use of the new digital monitoring tools. 
+• 
+Conduct 8 (eight) training sessions in hybrid mode for stakeholders to ensure effective 
+adoption and utilisation of the technologies with support of FSI/GIZ. 
+• 
+08 regional workshops on the outcomes of assignment of each work package. The 
+workshops will be organised by GIZ in collaboration with FSI and MoEF&CC.  
+Deliverables: 
+• 
+Detailed technical specifications for each developed digital monitoring tool, including 
+hardware and software requirements, data capabilities, and user interfaces. 
+• 
+Reports documenting the development process, testing outcomes, and iterations of the 
+digital monitoring tool prototypes. 
+• 
+Report on analysis of the pilot testing phase, detailing the functionality, user feedback, 
+and performance metrics of the new tools. 
+• 
+Training manuals and user guides designed to assist stakeholders in effectively utilizing 
+the new digital monitoring tools. 
+ 
+Certain milestones, as laid out in the table below, are to be achieved by certain dates during 
+the contract term, and at particular locations:  
+Milestone/Deliverable 
+Deadline/place/person responsible 
+Baseline report (reviewed and approved) on 
+existing Monitoring Mechanisms 
+3 Months after the start of the contract 
+Report on options and recommendations for 
+MER mechanisms 
+6 Months after the start of the contract 
+Approved design and prototype of tool (for data 
+collection and monitoring) 
+9 Months after the start of the contract 
+Development of FLR monitoring tools and SOPs 
+(for data collection and monitoring) 
+18 Months after the start of the contract 
+Pilot testing of data collection and monitoring 
+tools 
+22 Months after the start of the contract 
+Final report on pilot testing 
+30 Months after the start of the contract 
+ 
+Period of assignment: From 15th May 2025 until 31st December 2027  
+3. 
+Data protection  
+The digital tool developed or upgraded on behalf of a local partner of GIZ must meet the highest 
+data protection standards, especially those relating to data protection by design and by default, 
+as stated in Annex 1. “Data protection standards for developing digital tools meant for GIZ's 
+partners”. The contractor is therefore required to inform GIZ if any applicable national 
+
+--- Page 10 ---
+ 
+10 
+requirement is incompatible with the provisions of this annex. We equally recommend the 
+partner to conclude data protection agreements with the hosting service provider(s) and the 
+maintenance service provider(s), where applicable. The GIZ would be available to support the 
+partner whenever need arises. 
+4. 
+IT/ Information security 
+• 
+Network communication between the components of the application should be 
+encrypted. Hard-coded keys (symmetric/asymmetric) should not be included in the 
+application. If this is unavoidable, the handling of the key must be described. The 
+information security risks related to the storage of the key must be evaluated. The 
+transmission of authentication information (especially passwords) must be encrypted. 
+The storage and transmission of sensitive and/or personal data must comply with 
+current encryption standards. There must be a documented authorization concept for 
+the application (e.g. in the operating manual). 
+• 
+Security patches should be applied regularly (at least every 6 months) and event-
+related as soon as possible. 
+• 
+A role and authorization concept must be implemented that includes at least the roles 
+of system admin (full authorization to the entire system), CMS admin (+account 
+management), editor and author (editing content/articles). The application to be 
+developed must be operable with minimal system rights.  Only the following user groups 
+may have access to the backend: Developers and administrators of the Contractor as 
+well as employees for editorial maintenance of the Contractor. Access to the backend 
+at the operating system level may therefore only be granted to very limited user groups 
+with the appropriate expertise. There must be a documented authorization concept for 
+each application (e.g. in the operating manual). Changes to account data that are 
+required for registration may only be made by the administrators and are to be blocked 
+for the user. 
+• 
+A password policy with complex password and protection against password stuffing 
+must be implemented. Preferably, a two-factor authentication, especially for 
+administrators, should be implemented and is to be possible via multiple channels (app, 
+SMS or e-mail). Passwords must not be stored in plain text. Passwords may only be 
+stored as hash values. The hash algorithm must conform to the current 
+recommendations of the BSI (technical guidelines). Hard-coded passwords must not 
+be included in the application. The transmission of authentication information 
+(especially passwords) must be encrypted. If 2FA is compulsorily active for all users, it 
+is possible to work with 8-digit passwords, for example, and to dispense with password 
+expiration if necessary. 
+• 
+Session cookies used for logins must be deleted after logging out from the client. In 
+order to minimize operating errors (human errors), the ergonomics of the application 
+should be designed safely according to the need for protection. 
+• 
+The system must be hardened against SQL injection. In detail, this concerns the 
+validation, filtering and cleansing of user input. The inputs may only have expected 
+properties and characters and may not contain any unauthorized metacharacters that 
+are passed to the SQL interpreter. 
+• 
+The system must be protected against Cross Site Scripting (XXS) on the client side. 
+The server(s) must be protected against reflected or persistent cross site scripting by 
+securing the server source code. All data to be processed by the server must be 
+validated before execution. Whitelists of permitted data can be used for this purpose. 
+General conversion of certain script characters is also a popular method. It is to be 
+prevented that executable metacharacters of the scripts are read by the server. 
+
+--- Page 11 ---
+ 
+11 
+Cookies should only be read by the server (HttpOnly) and not by JavaScript in the 
+browser. 
+• 
+When implementing API interfaces, it is essential to harden them against malicious 
+code injection (SQL injection, etc.) via the URL. 
+• 
+For the upload of files, appropriate file filters must be provided so that no files with 
+executable content (scripts, programs or SQL codes) can be uploaded and executed. 
+Therefore additionally an up-to-date anti-virus software must be used. 
+• 
+A system log is to be implemented in which at least logins and logouts of all users and 
+actions such as updates, backups, uploads and downloads, changes to account data 
+and authorizations, as well as all security-relevant actions and events are to be logged 
+and documented. The inclusion of further log data is still to be discussed in detail with 
+the project. The system log is to be documented in the operating manual. 
+• 
+The 
+error 
+messages 
+generated 
+by 
+the 
+application 
+(especially 
+exception 
+handling/exceptions) must not provide any information that allows conclusions to be 
+drawn about the architecture or software/software versions used. 
+• 
+The regular backups of the complete system are to be carried out by the contractor and 
+checked accordingly for usability (restore). The backup can be stored on the server, 
+but a copy must always be stored offline to prevent loss through hacker attacks. The 
+intervals for the backups are to be coordinated with the project. 
+• 
+Important backups always belong offline on another system and must be validated. A 
+system log is to be implemented in which at least logins and logouts of all users and 
+actions such as updates, backups, uploads and downloads, changes to account data 
+and authorizations, as well as all security-relevant actions and events are to be logged 
+and evaluated. 
+• 
+The deletion procedure must be proven upon request. Legal retention obligations 
+remain unaffected. 
+• 
+Remote maintenance of systems may only be carried out via secure communication 
+channels, such as HTTPS with an encryption standard of at least TLS 1.2 or higher. 
+So-called VPNs can also be used for remote maintenance, these must be 
+configured/secured at the endpoints by a firewall. 
+• 
+An emergency manual should be prepared for the system with recovery and recovery 
+plans. 
+5. 
+Concept  
+In the bid, the bidder is required to show how the objectives defined in Chapter 2 are to be 
+achieved, if applicable under consideration of further specific method-related requirements 
+(technical-methodological concept). In addition, the bidder must describe the project 
+management system for service provision.  
+Technical-methodological concept 
+Strategy: The bidder is required to consider the tasks to be performed with reference to the 
+objectives of the services put out to tender (see Chapter 1). Following this, the bidder presents 
+and justifies the strategy with which it intends to provide the services for which it is responsible 
+(see Chapter 2). (Point 1.1.- TAG) 
+The bidder is required to present the actors relevant for the services for which it is responsible 
+and describe the cooperation with them. (Point 1.2 – TAG) 
+The bidder is required to present and explain its approach to steering the measures with the 
+project partners and its contribution to the results-based monitoring system.  
+
+--- Page 12 ---
+ 
+12 
+The bidder is required to describe the key processes for the services for which it is responsible 
+and create an operational plan or schedule (Point 1.4.1– TAG)  that describes how the 
+services according to Chapter 2 (Tasks to be performed by the contractor) are to be provided. 
+In particular, the bidder is required to describe the necessary work steps and, if applicable, 
+take account of the milestones and contributions of other actors in accordance with Chapter 
+2 (Tasks to be performed by the contractor) (Point 1.4.2– TAG). 
+The bidder is required to describe its contribution to knowledge management for the partner 
+(Point 1.5.1– TAG) and GIZ and promote scaling-up effects (Point 1.5.2– TAG) (learning and 
+innovation).  
+Project management of the contractor  
+The bidder is required to explain its approach for coordination with the GIZ project. 
+• 
+The bidder is responsible for selecting, preparing, training, and steering the experts 
+(international and national, short, and long term) assigned to perform the advisory tasks. 
+• 
+The bidder makes available equipment and supplies (consumables) and assumes the 
+associated operating and administrative costs. 
+• 
+The bidder manages costs and expenditures, accounting processes, and invoicing in line 
+with the requirements of GIZ. 
+• 
+The bidder reports regularly to GIZ in accordance with the AVB of the Deutsche 
+Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH from 2022. 
+The bidder is required to draw up a personnel assignment plan with explanatory notes that 
+list all the experts proposed in the bid; the plan includes information on assignment dates 
+(duration and expert days) and locations of the individual members of the team complete with 
+the allocation of work steps as set out in the schedule. 
+The bidder is required to describe its backstopping concept. The following services are part of 
+the standard backstopping package, which (like ancillary personnel costs) must be factored 
+into the fee schedules of the staff listed in the bid in accordance with section 5.4 of the AVB:  
+• 
+Service-delivery control 
+• 
+Managing adaptations to changing conditions  
+• 
+Ensuring the flow of information between GIZ and field staff 
+• 
+Contractor’s responsibility for seconded personnel 
+• 
+Process-oriented technical-conceptual steering of the consultancy inputs 
+• 
+Securing the administrative conclusion of the project 
+• 
+Ensuring compliance with reporting requirements 
+• 
+Providing specialist support for the on-site team by staff at company headquarters 
+• 
+Sharing the lessons learned by the contractor and leveraging the value of lessons learned 
+on site. 
+6. 
+Criteria for Eligibility of firms  
+Bidders must submit the documentary evidence (as per Annex A of Bidding conditions) for 
+the criteria’s specified below. Also please refer document “Grid for eligibility of consulting firms” 
+for more details. 
+1. 
+Be a registered as national organization or entity. 
+2. 
+In case of bidding consortia: Declaration by consortium  
+
+--- Page 13 ---
+ 
+13 
+3. 
+Average annual turnover for the last three financial years should be at least EUR 
+200,000. 
+4. 
+The agency should have minimum 10 employees as on previous three years. 
+5. 
+The agency must have handled at least 3 projects on involving the development of 
+monitoring, evaluation, or reporting systems, environmental frameworks, or similar 
+tasks, with a minimum commission value of EUR 10,000. Preference will be given 
+to projects related to ecosystem restoration, forestry, or climate adaptation. 
+6. 
+The agency must have 5 years of experience in developing digital tools in the areas 
+of environmental monitoring, evaluation, or reporting. 
+7. 
+The agency should have 3 years of experience in providing consulting services for 
+state/national agencies and completion of tasks according to timelines. 
+8. 
+The agency should have 2 years’ experience in Agriculture, Forests and Other Land 
+use (AFOLU) sectors. 
+9. 
+The agency should have regional experience in India 
+10. 
+The agency should have experience in Official Development Assistance (ODA). 
+7. 
+Personnel concept 
+The bidder is required to provide personnel who are suited to filling the positions described, on 
+the basis of their CVs (see Chapter 10), the range of tasks involved and the required 
+qualifications. 
+The below specified qualifications represent the requirements to reach the maximum number 
+of points. 
+Team Leader – Monitoring and Evaluation Specialist (2.1 – Technical Assessment Grid) 
+Tasks of the Team Leader 
+• 
+Overall responsibility for delivering advisory packages, ensuring the quality of outputs 
+and adherence to timelines. 
+• 
+Coordinate and maintain effective communication with FSI, SFDs, GIZ, and other 
+stakeholders involved in the project. 
+• 
+Manage personnel, plan assignments, and oversee short-term experts within the 
+project budget. 
+• 
+Regularly report to FSI, SFDs, and GIZ, adhering to established deadlines and project 
+requirements. 
+• 
+Lead the technical design and validation of the FLR MER framework, including 
+indicators, methodologies, and Standard Operating Procedures (SOPs). 
+• 
+Provide technical guidance and quality control for all deliverables prepared by the 
+project team. 
+Qualifications of the Team Leader 
+• 
+Education/training (2.1.1): Master’s degree in environmental sciences, forestry, 
+natural resource management, or related fields. 
+
+--- Page 14 ---
+ 
+14 
+• 
+Language (2.1.2): Knowledge of English, level C1 in the Common European 
+Framework of Reference for Languages (CEFR). 
+• 
+General professional experience (2.1.3): At least 10 years of experience in designing 
+and implementing Monitoring, Evaluation, and Reporting (MER) systems in the AFOLU 
+(Agriculture, Forestry, and Other Land Use) sector. 
+• 
+Specific professional experience (2.1.4): At least 5 years of experience developing 
+frameworks or tools for ecosystem restoration, forestry, or climate adaptation. 
+• 
+Leadership/management experience (2.1.5): At least 5 years of experience as a 
+project manager or team leader. 
+• 
+Regional experience (2.1.6): At least 4 years of experience working on projects in 
+India. 
+• 
+Development Cooperation (DC) experience (2.1.7): At least 2 years of experience 
+working on projects funded by development cooperation organizations. 
+Expert 1 – Data scientist/ engineer (2.2 – Technical Assessment Grid) 
+Tasks of Expert 1 
+• 
+Collect and analyze data on ecological, socio-economic, and governance indicators for 
+FLR monitoring. 
+• 
+Support the development of proxy indicators for ecosystem services and adaptation 
+benefits, such as water security, slope stabilization, and biodiversity recovery. 
+• 
+Prepare data collection templates and sampling designs aligned with project objectives. 
+• 
+Design and develop data pipelines for FLR MER data processing and integration. 
+• 
+Ensure interoperability between geospatial, remote sensing, and field-collected data. 
+• 
+Develop and optimize databases for storing and managing large-scale FLR data. 
+• 
+Implement cloud-based solutions for data storage, access, and analysis. 
+• 
+Collaborate with web developers and data scientists to ensure seamless integration. 
+• 
+Validate data accuracy and integrate findings into the FLR MER framework in 
+collaboration with the FSI/SFD/GIZ project team. 
+• 
+Provide technical input for pilot testing and refine methodologies based on field results. 
+Qualifications of Expert 1 
+• 
+Education/training (2.2.1): Master’s degree in environmental sciences, forestry, 
+natural resource management, or related fields. 
+• 
+Language (2.2.2): Knowledge of English, level C1 in the Common European 
+Framework of Reference for Languages (CEFR). 
+
+--- Page 15 ---
+ 
+15 
+• 
+General professional experience (2.2.3): At least 7 years of experience in data 
+collection, analysis, and reporting for environmental or forestry-related projects. 
+• 
+Specific professional experience (2.2.4): At least 4 years of experience using 
+geospatial tools, remote sensing, or other technologies for environmental monitoring. 
+• 
+Regional experience (2.2.6): At least 2 years of experience working on projects in 
+India. 
+Expert 2 – Ecosystem Modeller (2.3 – Technical Assessment Grid) 
+Tasks of Expert 2 
+• 
+Use ecosystem service models (e.g., InVEST, Natural Capital Accounting, ARIES) to 
+assess ecological and socio-economic impacts of FLR interventions. 
+• 
+Quantify ecosystem services such as carbon sequestration, water regulation, and 
+biodiversity restoration. 
+• 
+Develop scenarios to predict the outcomes of FLR initiatives under varying intervention 
+strategies. 
+• 
+Integrate ecosystem service valuation into the FLR MER framework. 
+• 
+Conduct training sessions for stakeholders on the use of ecosystem models and their 
+applications in FLR monitoring. 
+• 
+Validate model outputs and align them with project objectives and stakeholder 
+expectations. 
+Qualifications of Expert 2 
+• 
+Education/training (2.3.1): Master’s degree in ecology, environmental sciences, 
+natural resource management, or related fields. 
+• 
+Language (2.3.2): Knowledge of English, level C1 in the Common European  
+Framework of Reference for Languages (CEFR). 
+• 
+General professional experience (2.3.3): At least 7 years of experience in ecosystem 
+modeling and service valuation. 
+• 
+Specific professional experience (2.3.4): At least 4 years of experience applying 
+tools such as InVEST, ARIES, or similar models for environmental assessment. 
+• 
+Regional experience (2.3.6): At least 2 years of experience working on projects in 
+India. 
+Expert 3 – Geospatial Expert (2.4 – Technical Assessment Grid) 
+Tasks of Expert 3 
+• 
+Assess the applicability of technologies such as satellite imagery, GIS, AI, and machine 
+learning for FLR monitoring. 
+
+--- Page 16 ---
+ 
+16 
+• 
+Develop geospatial methodologies for tracking ecological and socio-economic 
+indicators, including vegetation cover, land-use change, and carbon stocks. 
+• 
+Conduct geospatial analysis and produce high-quality maps and visualizations for 
+reporting. 
+• 
+Integrate geospatial tools into the FLR MER framework and prepare workflows for 
+scalability across regions. 
+• 
+Process and analyze satellite imagery to monitor FLR activities. 
+• 
+Develop methodologies for tracking vegetation cover, land-use changes, and 
+ecosystem health. 
+• 
+Work with data engineers and scientists to integrate remote sensing products into 
+digital tools. 
+• 
+Validate remote sensing outputs through ground truthing and stakeholder 
+consultations. 
+• 
+Prepare training material and provide training sessions for stakeholders on the 
+application of geospatial tools for monitoring and evaluation. 
+• 
+Collaborate with the FSI/SFD/GIZ project team to validate proposed methodologies. 
+Qualifications of Expert 3 
+• 
+Education/training (2.4.1): Master’s degree in geospatial sciences, GIS, remote 
+sensing, or environmental technology. 
+• 
+Language (2.4.2): Knowledge of English, level C1 in the Common European 
+Framework of Reference for Languages (CEFR). 
+• 
+General professional experience (2.4.3): At least 7 years of experience in geospatial 
+analysis, remote sensing, and related technologies. 
+• 
+Specific professional experience (2.4.4): At least 4 years of experience in applying 
+geospatial technologies for environmental monitoring and assessment. 
+• 
+Regional experience (2.4.6): At least 2 years of experience working on projects in 
+India. 
+Expert 4 – Software/ Web Developer (2.5 – Technical Assessment Grid) 
+Tasks of Expert 4 
+• 
+Develop and maintain digital platforms for FLR MER data management. 
+• 
+Design and optimize software and web applications/ dashboards for MER FLR. 
+• 
+Ensure compatibility with GIS and remote sensing tools. 
+• 
+Develop mobile and web applications for field data collection and real-time reporting. 
+
+--- Page 17 ---
+ 
+17 
+• 
+Ensure the software applications are user-friendly and compatible with GIS and remote 
+sensing tools. 
+• 
+Work with web developers and data engineers to optimize system performance. 
+• 
+Conduct system testing, debugging, and performance tuning. 
+• 
+Create technical documentation and provide training for end-users. 
+• 
+Collaborate with stakeholders to integrate data visualization features. 
+Qualifications of Expert 4 
+• 
+Education/training (2.5.1): bachelor’s or master’s degree in computer science, 
+software engineering, or a related field. 
+• 
+Language (2.5.2): Knowledge of English, level C1 in the Common European 
+Framework of Reference for Languages (CEFR). 
+• 
+General professional experience (2.5.3): At least 5 years of experience in web 
+development. 
+• 
+Specific professional experience (2.5.4): At least 3 years of experience in GIS-based 
+application development. 
+• 
+Regional experience (2.5.6): At least 2 years of experience working on projects in 
+India. 
+8. 
+Costing requirements 
+Assignment of personnel 
+Sr. No. 
+Key Personnel 
+No. of Days 
+Team leader 
+Team Leader – Monitoring and Evaluation 
+Specialist 
+60 
+Expert 1 
+Data scientist/ engineer 
+120 
+Expert 2 
+Ecosystem Modeller 
+60 
+Expert 3 
+Geospatial Expert 
+250 
+Expert 4 
+Software/ Web Developer 
+250 
+ 
+Total proposed person days: 740 
+ 
+Travel 
+The agency is required to calculate the travel by the specified experts and the experts it has 
+proposed based on the places of performance and list the expenses separately by daily 
+allowance, accommodation expenses, and other travel expenses. Travel is anticipated to 
+project sites and meeting locations in the following states: 
+• 
+Maharashtra 
+
+--- Page 18 ---
+ 
+18 
+• 
+Gujarat 
+• 
+Delhi NCR (mostly New Delhi, Haryana and Rajasthan) 
+• 
+Uttarakhand 
+ 
+Sustainability aspects for travel 
+GIZ has undertaken an obligation to reduce greenhouse gas emissions (CO2 emissions) 
+caused by travel. When preparing your tender, please incorporate options for reducing 
+emissions, such as selecting the lowest-emission booking class (economy) and using means 
+of transport, airlines and flight routes with a higher CO2 efficiency. For short distances, travel 
+by train (second class) or e-mobility should be the preferred option. 
+CO2 emissions caused by air travel must be offset. GIZ specifies a budget for this, through 
+which the carbon offsets can be settled against evidence. 
+There are many different providers in the market for emissions certificates, and they have 
+different climate impact ambitions. The Development and Climate Alliance (German only) has 
+published a list of standards (German only). GIZ recommends using the standards. 
+A total of 90 domestic flights (45 outward and 45 return) between Delhi, India (or any other 
+Indian city) and Ahmedabad, Nagpur and Dehradun of India take place as part of a consulting 
+assignment, amounting to a total of EUR 1,198.00 (90 x EUR 13) is specified for the domestic 
+flights, for bookings in economy class, category 1.3. 
+Fee days 
+Number 
+of 
+experts 
+Number of 
+days 
+per 
+expert 
+Total 
+Comments 
+Team Leader 
+1 
+60 
+60 
+  
+National Experts 
+4 
+170 
+680 
+  
+Travel expenses 
+Quantity 
+Number 
+per expert 
+Total 
+Comments 
+Per-diem allowance in country 
+of assignment 
+80 
+5 
+400 
+for professional team 
+(For workshops/ training and 
+stakeholder meetings) 
+Transport 
+Quantity 
+Number 
+per expert 
+Total 
+Comments 
+Domestic flights 
+18 
+(one 
+way) 
+5 
+90 
+for professional team 
+(For workshops/ training and 
+stakeholder meetings) 
+CO2 compensation 
+for 
+air 
+travel 
+18 
+(one 
+way) 
+5 
+90 
+A fixed budget of EUR 1,198 is 
+earmarked for settling carbon 
+offsets against evidence. 
+  
+(EUR 13 per economy flight – 
+10% offsetting costs for air travel 
+within India) 
+ 
+ 
+Other costs 
+The agency should budget for the following additional expenses: 
+
+--- Page 19 ---
+ 
+19 
+• 
+Development of geospatial visualizations, graphics, maps, and analytical outputs to 
+be included in project deliverables. 
+• 
+Preparation of materials for stakeholder meetings, trainings and workshops, including 
+digital templates, SOPs, and presentations. 
+• 
+Software licenses (if applicable) for ecosystem modeling tools such as InVEST and 
+ARIES or for geospatial platforms. 
+• 
+Costs associated with documentation, printing, and report preparation. 
+9. 
+Inputs of GIZ or other actors 
+GIZ and/ or other actors (e.g., consortium members) are expected to make the following 
+available: 
+• 
+Introduce the agency to the government administration at the start of the project.  
+• 
+Lead all official communication with other actors for this assignment. 
+• 
+Suggest additional participants for any meetings, trainings, and workshops.  
+• 
+Any technical support required for the success of this initiative.  
+• 
+Technical input for finalising the activity plan, review strategies and periodic review 
+and reporting of progress. 
+10. 
+Requirements on the format of the bid 
+The structure of the bid must correspond to the structure of the ToRs. In particular, the detailed 
+structure of the concept (Chapter 3) is to be organised in accordance with the positively 
+weighted criteria in the assessment grid (not with zero). It must be legible (font size 11 or 
+larger) and clearly formulated. The bid is to be drawn up in English (language). 
+The CVs of the personnel proposed in accordance with Chapter 4 of the ToRs must be 
+submitted using the format specified in the terms and conditions for application. The CVs shall 
+not exceed 4 pages. The CVs must clearly show the position and job the proposed person held 
+in the reference project and for how long. The CVs can also be submitted in English (language). 
+Please calculate your price bid based exactly on the aforementioned costing requirements. In 
+the contract, the contractor has no claim to fully exhaust the days/travel/workshops/ budgets. 
+The number of days/travel/workshops and the budget amount shall be agreed in the contract 
+as ‘up to’ amounts. The specifications for pricing are defined in the price schedule. 
+
